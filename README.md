@@ -6,4 +6,5 @@ To build and run the demo, switch to this directory and run
 
 `docker-compose up`
 
-`http://localhost:16686` to search for the traces in the Jaeger UIs.
+`http://localhost:16686` to search for the traces in the Jaeger UIs
+`localhost:4318` exposes HTTP API of otel collector
